@@ -49,7 +49,7 @@ Sales_growth = DIVIDE(([Current_year_sales]-[Previous_year_sales]),[Previous_yea
 
 ## Overview
 ![Overview](Screenshots/4.png)
-[Live demo ](linkedin.com/in/mohammed-ahmed-052769239).
+[Live demo ](https://app.powerbi.com/groups/me/reports/6e60af5a-d538-43fa-8061-9a7d892b9fea?ctid=8fcf4cd9-2fe4-4571-8431-b17c3f29efb3&pbi_source=linkShare)
 ---
 > [!NOTE]  
 ✅ This project is a **practical training in data analysis** using BI tools.  
